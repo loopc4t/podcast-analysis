@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsSite name="Global Daily" url="https://www.globaldaily.com" language="en">
+    <meta>
+        <editor>Jane Smith</editor>
+        <lastUpdated>2025-10-22</lastUpdated>
+        <category>World News</category>
+    </meta>
+
+    <article id="001">
+        <title>New Renewable Energy Record Set in Europe</title>
+        <author>Michael Brown</author>
+        <date>2025-10-21</date>
+        <category>Environment</category>
+        <summary>European countries reached a new milestone in renewable energy generation this year.</summary>
+        <content>
+            Wind and solar power now account for more than 50% of total energy production in several EU nations,
+            according to a report released today.
+        </content>
+    </article>
+
+    <article id="002">
+        <title>Tech Giants Announce AI Collaboration</title>
+        <author>Susan Lee</author>
+        <date>2025-10-20</date>
+        <category>Technology</category>
+        <summary>Major companies partner to set new ethical guidelines for artificial intelligence.</summary>
+        <content>
+            Representatives from leading tech firms met in San Francisco to discuss transparency, bias, and data security
+            in AI systems.
+        </content>
+    </article>
+
+    <article id="003">
+        <title>Historic Peace Agreement Signed</title>
+        <author>David Chen</author>
+        <date>2025-10-19</date>
+        <category>Politics</category>
+        <summary>After years of negotiation, a peace agreement was signed bringing stability to the region.</summary>
+        <content>
+            Leaders from both nations emphasized the importance of dialogue and cooperation during the signing ceremony.
+        </content>
+    </article>
+</newsSite>
+
